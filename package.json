@@ -12,7 +12,7 @@
     "test-detox-android": "detox test -c android.emu.debug"
   },
   "dependencies": {
-    "detox": "^15.1.4",
+    "detox": "18.22.2",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
